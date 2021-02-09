@@ -11,4 +11,5 @@
 - [The Nuclear Weapons Archive](http://nuclearweaponarchive.org/)
 
 ## Books
-- [Nuking the Moon (Vince Houghton)](https://www.amazon.com/Nuking-Moon-Intelligence-Schemes-Military/dp/0525505172)
+- [Nuking the Moon](https://www.amazon.com/Nuking-Moon-Intelligence-Schemes-Military/dp/0525505172)
+- [Narco Submarines](https://www.amazon.com/dp/B086G11WMM)
