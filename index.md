@@ -14,6 +14,8 @@
   - [Photo of the Week](https://www.historyplace.com/weeklyphoto/index.html)
   - [Speech of the Week](https://www.historyplace.com/speeches/index.html)
   - [FAQ](https://www.historyplace.com/specials/faq/index.html)
+- [MacroHistory](www.fsmitha.com/)
+- [History Today](https://www.historytoday.com/)
 
 ## Books
 - [Nuking the Moon](https://www.amazon.com/Nuking-Moon-Intelligence-Schemes-Military/dp/0525505172)
