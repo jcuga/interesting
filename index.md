@@ -7,6 +7,7 @@
 
 ## Reference
 - [The Nuclear Weapons Archive](http://nuclearweaponarchive.org/)
+- [NavSource Naval History](http://navsource.org/)
 - [Eyewitness to History](http://eyewitnesstohistory.com/)
   - [Photo of the Week](http://eyewitnesstohistory.com/photofrm.htm)
 - [The History Place](http://www.historyplace.com/)
