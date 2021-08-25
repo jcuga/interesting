@@ -4,7 +4,7 @@
 
 ## Articles
 - [The Flying Crowbar:](http://www.merkle.com/pluto/pluto.html) Code name "Pluto", a Supersonic Low-Altitude Missile (SLAM), was a nuclear-powered ramjet cuise missile that would have left a trail of fallout in its wake. *2/09/2021*
-- [When America Had an Atomic Mecha Warrior Robot](https://orangebeanindiana.com/2021/04/09/once-upon-a-time-america-had-an-atomic-mecha-warrior-robot/)  Nicknamed the “Beetle”, the Air Force created this robot to service the country’s first nuclear-powered bomber.
+- [When America Had an Atomic Mecha Warrior Robot](https://orangebeanindiana.com/2021/04/09/once-upon-a-time-america-had-an-atomic-mecha-warrior-robot/)  Nicknamed the “Beetle”, the Air Force created this robot to service the country’s first nuclear-powered bomber. *8/24/2021*
 
 ## Reference
 - [The Nuclear Weapons Archive](http://nuclearweaponarchive.org/)
