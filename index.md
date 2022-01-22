@@ -1,12 +1,23 @@
-## Latest Military, Intel, & Tech
-- [The War Zone](https://www.thedrive.com/the-war-zone)
-- [Covert Shores](http://www.hisutton.com/)
-
 ## Articles
 - [The Flying Crowbar:](http://www.merkle.com/pluto/pluto.html) Code name "Pluto", a Supersonic Low-Altitude Missile (SLAM), was a nuclear-powered ramjet cuise missile that would have left a trail of fallout in its wake. *2/09/2021*
 - [When America Had an Atomic Mecha Warrior Robot](https://orangebeanindiana.com/2021/04/09/once-upon-a-time-america-had-an-atomic-mecha-warrior-robot/)  Nicknamed the “Beetle”, the Air Force created this robot to service the country’s first nuclear-powered bomber. *8/24/2021*
+- [Tarrare](https://en.m.wikipedia.org/wiki/Tarrare) and [Charles Domery](https://en.m.wikipedia.org/wiki/Charles_Domery) were two of the hungriest people ever recorded *1/22/2022*
 
-## Reference
+## Sources
+
+### General
+- [Wikipedia](https://en.m.wikipedia.org/wiki/Main_Page)
+  - [Unusual Wikipedia Articles](https://en.m.wikipedia.org/wiki/Wikipedia:Unusual_articles)
+  - [Most discussed wiki articles on HackerNews](https://www.mostdiscussed.com/popular)
+
+### Latest Military and Intel
+- [The War Zone](https://www.thedrive.com/the-war-zone)
+- [Covert Shores](http://www.hisutton.com/)
+
+### Tech
+- [Hacker News](https://news.ycombinator.com/)
+
+### History
 - [The Nuclear Weapons Archive](http://nuclearweaponarchive.org/)
 - [NavSource Naval History](http://navsource.org/)
 - [Eyewitness to History](http://eyewitnesstohistory.com/)
