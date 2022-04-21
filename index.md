@@ -2,7 +2,8 @@
 - [The Flying Crowbar:](http://www.merkle.com/pluto/pluto.html) Code name "Pluto", a Supersonic Low-Altitude Missile (SLAM), was a nuclear-powered ramjet cuise missile that would have left a trail of fallout in its wake. *2/09/2021*
 - [When America Had an Atomic Mecha Warrior Robot](https://orangebeanindiana.com/2021/04/09/once-upon-a-time-america-had-an-atomic-mecha-warrior-robot/)  Nicknamed the “Beetle”, the Air Force created this robot to service the country’s first nuclear-powered bomber. *8/24/2021*
 - [Tarrare](https://en.m.wikipedia.org/wiki/Tarrare) and [Charles Domery](https://en.m.wikipedia.org/wiki/Charles_Domery) were two of the hungriest people ever recorded *1/22/2022*
-
+- [U.S.S. Akron (ZRS-4) and U.S.S. Macon (ZRS-5)
+](https://www.airships.net/us-navy-rigid-airships/uss-akron-macon/) The United States Navy airships U.S.S. Akron (ZRS-4) and U.S.S. Macon (ZRS-5) were designed for long-range scouting in support of fleet operations. Often referred to as flying aircraft carriers. *4/21/2022*
 ## Sources
 
 ### General
@@ -29,6 +30,7 @@
   - [FAQ](https://www.historyplace.com/specials/faq/index.html)
 - [MacroHistory](http://www.fsmitha.com/)
 - [History Today](https://www.historytoday.com/)
+- [AirShips.net](https://www.airships.net/)
 
 ## Books
 - [Nuking the Moon](https://www.amazon.com/Nuking-Moon-Intelligence-Schemes-Military/dp/0525505172)
